@@ -1,0 +1,12 @@
+name: Chemotaxis_viewer
+title: Chemotaxis_viewer
+username:
+account: mikeod38
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 256497
+bundleId: 2265438
+url: https://mikeod38.shinyapps.io/Chemotaxis_viewer/
+when: 1564090896.96006
+asMultiple: FALSE
+asStatic: FALSE
